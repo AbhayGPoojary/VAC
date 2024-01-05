@@ -1,3 +1,4 @@
+//Write a program to find x to the power y. Ask user to provide x and y values. Do not use any builtin functions.
 #include<stdio.h>
 int main(){
 int i,x,y,result=1;
